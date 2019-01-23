@@ -1,0 +1,22 @@
+Pueden usar toda esta documentación para hacer los diseños:
+
+https://mdbootstrap.com/
+
+Para que funcione, solo deben modificar en el HTML que copian y pegan de esta documentación:
+
+material = ibri
+mdb = ibt
+
+Ejemplo:
+
+class="mdb_select"
+
+class="material-colors"
+
+modificado a nuestra versión quedaria:
+
+class="ibt_select"
+
+class="ibri-colors"
+
+Y eso es todo, un MDB libre de licencia
